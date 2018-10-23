@@ -1,4 +1,26 @@
- ###
+větší H1
+==
+==
+
+menší H2
+--
+--
+
+<br /><br />
+
+**znakem sharp # na začátku před nadpisem —**
+
+# nadpis H1
+
+## nadpis H2
+
+### nadpis H3
+
+#### nadpis H4
+
+
+
+###
  dfgf
  ###
 
@@ -104,25 +126,4 @@ inline
 
 **s podtrhem —**
 — na podtrh stačí jeden z těch znaků od začátku řádku
-
-větší H1
-==
-==
-
-menší H2
---
---
-
-<br /><br />
-
-**znakem sharp # na začátku před nadpisem —**
-
-# nadpis H1
-
-## nadpis H2
-
-### nadpis H3
-
-#### nadpis H4
-
 
