@@ -1,9 +1,11 @@
 plugins: 
   - jekyll-feed
 exclude:
-  -jk1
+  - jk1
 
 title: Moravia Link
 email: tandit77@gmail.com
+url: http://www.moravia.link
+
 varxy: Level1
 
