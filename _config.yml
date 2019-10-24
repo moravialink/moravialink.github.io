@@ -1,10 +1,7 @@
 plugins: 
   - jekyll-feed
-exclude:
-  - jk1
 
 title: Moravia Link
-description: experimenting for now
 email: tandit77@gmail.com
 url: https://www.moravia.link
 

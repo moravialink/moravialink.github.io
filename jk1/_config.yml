@@ -1,3 +1,6 @@
 name: Jekyll 1
 varxy: EXE111
 
+plugins:
+  - jekyll-feed
+
