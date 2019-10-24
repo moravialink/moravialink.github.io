@@ -1,4 +1,4 @@
-timezone: CZ
+timezone: Europe/Vienna
 
 plugins: 
   - jekyll-feed
