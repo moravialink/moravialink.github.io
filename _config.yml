@@ -1,3 +1,5 @@
+timezone: CZ
+
 plugins: 
   - jekyll-feed
 
